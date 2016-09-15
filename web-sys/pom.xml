@@ -6,9 +6,9 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-    <artifactId>sys-web</artifactId>
+    <artifactId>web-sys</artifactId>
     <packaging>war</packaging>
-    <name>sys-web Maven Webapp</name>
+    <name>web-sys Maven Webapp</name>
     <url>http://maven.apache.org</url>
     <dependencies>
         <dependency>
@@ -18,6 +18,6 @@
         </dependency>
     </dependencies>
     <build>
-        <finalName>sys-web</finalName>
+        <finalName>web-sys</finalName>
     </build>
 </project>
